@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+  color: red;
+  width: 150px;
+  padding: 10px;
+  margin: 10;
+}
+h1 {
+  color: blue;
+}
+div {
+  width: 200px;
+  border: 15px solid purple;
+  padding: 40px;
+  margin: 20px;
+}
